@@ -1,0 +1,14 @@
+* {
+    margin: 10;
+    padding: 10;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#color {
+    background: rgb(9, 164, 178);
+}
+
+#tabla {
+    border: 1px solid black;
+}
